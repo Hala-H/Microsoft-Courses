@@ -1,2 +1,13 @@
-# Microsoft-Courses
-Challenges from Microsoft data science courses.
+# Microsoft Create machine learning models
+Challenges from Microsoft's Create machine learning models learning path that I solved.
+
+Source: https://github.com/MicrosoftDocs/ml-basics/tree/master/challenges
+
+## Module 1: Explore and analyze data with Python
+Source: https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-python/
+
+In this module, I solved the flights challenge which was a simple exploration of the US Department of Transportation data.
+
+## Module 2: Train and evaluate regression models
+Source: https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/
+
