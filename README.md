@@ -11,3 +11,4 @@ In this module, I solved the flights challenge which was a simple exploration of
 ## Module 2: Train and evaluate regression models
 Source: https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/
 
+In this module, I solved the real estate challenge which was about regression models. The goal was to get a score of rmse less than 7 which I acheived at rmse of 6.3.
